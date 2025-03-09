@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently studying in ShanDong University
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Flask, LLM, algorithm and so on.
+- 🤔 I’m looking for help with all fields of computer science!
 <!--
 **RonronnerXin/RonronnerXin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
